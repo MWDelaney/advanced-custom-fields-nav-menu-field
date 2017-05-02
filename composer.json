@@ -1,5 +1,5 @@
 {
-    "name": "jgraup/acf-nav-menu-field",
+    "name": "mwdelaney/acf-nav-menu-field",
     "description": "Add-On plugin for Advanced Custom Fields (ACF) that adds a 'Nav Menu' Field type.",
     "keywords": ["wordpress", "plugin"],
     "type": "wordpress-plugin",
